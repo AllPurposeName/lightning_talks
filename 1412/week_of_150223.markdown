@@ -11,8 +11,8 @@ Teresa Finn, DJ Greenfield, Trey Tomlinson
 
 ### DJ Greenfield
 
-* Topic:
-* Theme:
+* Topic: Roots of Ruby
+* Theme: Programming Languages
 
 ### Trey Tomlinson
 
